@@ -149,6 +149,7 @@ else
         image(1.5, 1.5, map);
         grid on;
         axis image;
+	pause(0.5);
     end
 end
 
