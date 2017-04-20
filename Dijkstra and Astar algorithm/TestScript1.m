@@ -1,5 +1,5 @@
 %%age/k03936lvfuq.html Define a small map
-map = false(10);%0值矩阵
+map = false(10);
 
 % Add an obstacle
 map (1:5, 6) = true;
